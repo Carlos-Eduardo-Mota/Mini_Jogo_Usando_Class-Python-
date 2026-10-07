@@ -25,6 +25,7 @@ class Jogador():
                 # Aplica o dano diretamente no HP do monstro (alvo)
                 alvo.HP -= dano
                 print(f"O Player atacou! Tirou {dano} de dano.")
+                input()
                 return # Sai do loop e encerra o turno do jogador
                     
             time.sleep(0.05) # Evita sobrecarregar o processador no loop
