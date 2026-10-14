@@ -22,3 +22,9 @@ pip install keyboard
 ```Bash
    python nome_do_seu_arquivo.py
 ```
+
+## Ou
+
+1. Baixe o arquivo.exe
+
+2. Execute o arquivo 
